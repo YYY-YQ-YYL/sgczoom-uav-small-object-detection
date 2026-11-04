@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "Paper citation and publication details will be added after acceptance."
+title: "SGCZoom: Scale-Guided and Geometry-Consistent Non-Uniform Zooming for UAV Small-Object Detection"
+type: software
+repository-code: "https://github.com/YYY-YQ-YYL/sgczoom-uav-small-object-detection"

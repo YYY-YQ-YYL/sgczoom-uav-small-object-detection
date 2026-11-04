@@ -1,0 +1,28 @@
+# Local environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.idea/
+.vscode/
+
+# Private implementation and build artifacts are withheld in this preview.
+*.py
+*.sh
+*.template
+*.egg-info/
+build/
+dist/
+*.whl
+*.zip
+*.tar.gz
+*.bundle
+
+# Datasets, outputs, and checkpoints
+data/
+work_dirs/
+checkpoints/
+*.pth
+*.pt
+*.onnx
+*.log
